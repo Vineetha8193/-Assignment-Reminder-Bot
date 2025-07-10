@@ -53,6 +53,8 @@ Designing and building end-to-end no-code automations
 Using conditional logic with filters and date functions
 
 Managing real-time event triggers and multi-platform integration
+![image](https://github.com/user-attachments/assets/370a27d4-bc7b-4cf6-ba7e-5507cf22197a)
+
 
 🔗 Demo
 📽️ https://www.loom.com/share/31a24a3ce84647309e14a8acb8ac4071?sid=d48f837e-150c-432c-83af-b04820f4766f
